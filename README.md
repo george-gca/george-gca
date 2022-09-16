@@ -11,6 +11,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0073ec?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+![George's github stats](https://github-readme-stats.vercel.app/api?username=george-gca)
+
 <span>
   <a href="https://br.linkedin.com/in/georgecdearaujo/en"><img src="https://img.shields.io/badge/Connect-0077B5?style=social&logo=linkedin"/></a>
 </span>
