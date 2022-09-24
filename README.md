@@ -5,6 +5,7 @@
 - 😄 Pronouns: He/Him
 
 <p>
+  <img alt="Shell Script" src="https://img.shields.io/badge/-Shell Script-2C3840?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Python 3" src="https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="PyTorch Lightning" src="https://img.shields.io/badge/-PyTorch%20Lightning-792de4?style=flat-square&logo=pytorch-lightning&logoColor=white" />
