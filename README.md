@@ -12,9 +12,11 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0073ec?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-![George's github stats](https://github-readme-stats.vercel.app/api?username=george-gca&show_icons=true&theme=gotham&border_color=2ba888)
+[![George's github stats](https://github-readme-stats.vercel.app/api?username=george-gca&show_icons=true&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-gca&layout=compact&theme=gotham&border_color=2ba888)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-gca&layout=compact&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=george-gca&theme=onedark&margin-w=15&margin-h=15&no-bg=true&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
   
 <span>
   <a href="https://br.linkedin.com/in/georgecdearaujo/en"><img src="https://img.shields.io/badge/Connect-0077B5?style=social&logo=linkedin"/></a>
