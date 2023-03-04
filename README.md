@@ -3,7 +3,7 @@
 - :earth_americas: From Manaus, :brazil:
 - 🔭 Currently doing my PhD at [IC Unicamp](https://ic.unicamp.br/)
 - 😄 Pronouns: He/Him
-- See my [personal page](https://george-gca.github.io/)
+- Check my [personal page](https://george-gca.github.io/)
 
 <p>
   <img alt="Shell Script" src="https://img.shields.io/badge/-Shell Script-2C3840?style=flat-square&logo=gnu-bash&logoColor=white" />
