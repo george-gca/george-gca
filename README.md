@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-gca&layout=compact&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=george-gca&theme=onedark&margin-w=15&margin-h=15&no-bg=true&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=george-gca&theme=onedark&margin-w=15&margin-h=15&no-bg=true&rank=-C&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![snake gif](https://github.com/george-gca/george-gca/blob/output/github-contribution-grid-snake-dark.svg)
   
