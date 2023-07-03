@@ -1,7 +1,7 @@
 ### Hi, I'm George 👋
 
-- :earth_americas: From Manaus, :brazil:
-- 🔭 Currently doing my PhD at [IC Unicamp](https://ic.unicamp.br/)
+- :earth_americas: From [Manaus](https://goo.gl/maps/49n5JTjUTZyPvgM47), :brazil:
+- 🎓 Currently doing my PhD at [IC Unicamp](https://ic.unicamp.br/)
 - 😄 Pronouns: He/Him
 - Check my [personal page](https://george-gca.github.io/)
 
