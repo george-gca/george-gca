@@ -19,8 +19,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=george-gca&theme=onedark&margin-w=15&margin-h=15&no-bg=true&rank=-C&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-![snake gif](https://github.com/george-gca/george-gca/blob/output/github-contribution-grid-snake-dark.svg)
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/george-gca/george-gca/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/george-gca/george-gca/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+<br><br>
 <span>
   <a href="https://br.linkedin.com/in/georgecdearaujo/en"><img src="https://img.shields.io/badge/Connect-0077B5?style=social&logo=linkedin"/></a>
 </span>
